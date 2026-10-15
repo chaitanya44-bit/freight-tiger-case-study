@@ -1,0 +1,20 @@
+route,week_of,expected,expected_note,why_i_labelled_it_this_way
+Delhi-Jaipur,2024-11-11,Yes,,Big jump; the only Delhi-Jaipur note (N007) is May 2024 and about better roads
+Delhi-Jaipur,2024-11-18,Yes,,Same jump continues; still no note
+Ahmedabad-Mumbai,2025-01-20,No (justified),N002,Festival-week surcharge note is dated this exact week
+Chennai-Bangalore,2025-02-24,No (justified),N001,Inside the flood window (Feb 24 - Mar 8)
+Chennai-Bangalore,2025-03-03,No (justified),N001,Still inside the flood window
+Chennai-Bangalore,2025-03-10,Yes,,Flood note says roads passable from Mar 9 so window is over; N009 says back to normal
+Chennai-Bangalore,2025-03-17,Yes,,N009 says normal conditions - cannot justify a rise
+Mumbai-Delhi,2025-05-12,No (justified),N003,Diesel rise note applies to all routes from May 5; rise is own-history only
+Mumbai-Pune,2025-06-23,Yes,,Gap vs peers is large; an all-routes diesel note hits peers too so cannot explain it
+Mumbai-Pune,2025-09-15,Yes,,Closest note N006 says demand stable / no disruptions
+Mumbai-Pune,2025-10-27,Yes,,N010 says compliance cost absorbed without a rate change
+Mumbai-Pune,2025-12-22,Yes,,Long creep above peers; no note at all
+Delhi-Chennai,2024-02-05,not flagged,,Only +8.5% vs own history - normal week-to-week noise
+Mumbai-Delhi,2024-07-29,not flagged,,N005 maintenance note says costs not significantly affected; numbers are flat
+Kolkata-Bhubaneswar,2025-06-09,not flagged,,N008 says quiet quarter; numbers are flat
+Ahmedabad-Mumbai,2025-01-27,not flagged,,Week after the festival is back to normal
+Delhi-Jaipur,2024-05-20,not flagged,,N007 week (resurfacing) - numbers flat
+Delhi-Chennai,2025-12-22,not flagged,,Stable route all the way through
+Mumbai-Pune,2024-11-11,not flagged,,Normal week for Mumbai-Pune (its usual premium vs Delhi-Jaipur is under 20%)
